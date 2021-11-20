@@ -1,0 +1,18 @@
+*{
+    background-color: red;
+}
+.title{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: 'Praise', cursive;
+    font-size: 213px;
+}
+img{
+    width: 100%;
+}
+video{
+    display: block;
+    margin: 0 auto;
+    border: 8px solid;
+    border-radius: 10px;
+}
